@@ -47,7 +47,7 @@
 
     <activity android:name=".PlaceAutocompleteActivity" />
     <activity
-        android:name=".AutocompleteAddressActivity"
+        android:name=".TestActivity"
         android:windowSoftInputMode="stateHidden" />
     <activity android:name=".PlaceDetailsAndPhotosActivity" />
     <activity android:name=".PlaceIsOpenActivity"/>
